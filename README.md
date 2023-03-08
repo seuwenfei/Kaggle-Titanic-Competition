@@ -29,7 +29,7 @@
 pandas, numpy, seaborn, matplotlib, scikit-learn, tensorflow
 
 
-Read the complete project [here](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85#2.1-Missing-Values).
+Read the complete project [here](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85).
 
 ## Conclusion
 A Random Forest Classification with a cross validation score of 0.85 was obtained.
